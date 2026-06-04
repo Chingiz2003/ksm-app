@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.gradle/
+backend/.gradle/
+backend/build/
+*.log
+ksm-fruit-project.zip
+.vscode/
